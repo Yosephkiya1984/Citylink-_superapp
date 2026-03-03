@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Citylink Super App volume_1",
+  "description": "The unified digital gateway for Addis Ababa: Citizen services, Merchant tools, and Ministerial oversight.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
